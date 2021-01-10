@@ -261,7 +261,6 @@ npx create-react-app frontend-web --template typescript --use-npm
 ## TypeScript
 
 ## High order functions JavaScript e TypeScript
-<hr />
 
 
 # 3: front end mobile
